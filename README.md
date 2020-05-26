@@ -1,1 +1,1 @@
-# webStore
+# bankFacade-ejb
